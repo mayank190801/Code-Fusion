@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mayank190801/Code-Fusion/issues"
   },
-  "homepage": "https://github.com/mayank190801/Code-Fusion#readme"
+  "homepage": "https://github.com/mayank190801/Code-Fusion#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
